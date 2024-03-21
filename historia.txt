@@ -8,5 +8,3 @@ Estos son los nuevos cambios en la rama cabecera
 
 Nuevos cambios en cabecera 2.0 
 
-
-------
