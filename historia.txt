@@ -5,6 +5,6 @@ Este son mis nuevos cambios de hoy
 
 Estos son los nuevos cambios en la rama cabecera
 
-
+Hola este es mi cambio que va a romper git
 Nuevos cambios en cabecera 2.0 
 
