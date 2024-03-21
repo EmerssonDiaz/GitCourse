@@ -1,3 +1,10 @@
 Esta es la historia de Emersson,
 Emersson tiene 26 años, nació en Colombia
 
+Este son mis nuevos cambios de hoy
+
+Estos son los nuevos cambios en la rama cabecera
+
+Hola este es mi cambio que va a romper git
+Nuevos cambios en cabecera 2.0 
+
